@@ -18,7 +18,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "manuel.best-movies.it"
     },
     "android": {
       "adaptiveIcon": {
